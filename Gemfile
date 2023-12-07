@@ -107,4 +107,5 @@ group :test do
   gem "rspec-html-matchers"
   gem "webmock"
   gem "carrierwave"
+  gem "cloudinary"
 end
